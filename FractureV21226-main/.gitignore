@@ -1,0 +1,3 @@
+﻿# Ignore local model binary files managed separately
+models/*.pth
+
